@@ -12,5 +12,5 @@ let squares = numbers.map(function(x) {
 squares = numbers.map(x => x * x);
 
 squares.forEach(x => console.log(x));
-
+Deepanjali
 let abc = 14;
