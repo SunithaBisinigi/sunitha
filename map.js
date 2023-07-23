@@ -13,3 +13,4 @@ squares = numbers.map(x => x * x);
 
 squares.forEach(x => console.log(x));
 
+let abc = 14;
