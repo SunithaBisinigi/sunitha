@@ -1,6 +1,6 @@
 "use strict";
 
-let numbers = [1, 2, 3, 4, 7];
+let numbers = [1, 2, 3, 4, 8];
 
 
 let squares = numbers.map(function(x) {
